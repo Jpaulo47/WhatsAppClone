@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="email">Email</string>
+    <string name="login">login</string>
+    <string name="senha">Senha</string>
+    <string name="todo">Logo whatsapp</string>
+    <string name="n_o_tem_conta_cadastre_se">Não tem conta? Cadastre-se</string>
+    <string name="nome">Nome</string>
+    <string name="cadastrar">cadastrar</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="configura_es">Configurações</string>
+    <string name="sair">Sair</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="conversas">Conversas</string>
+    <string name="perfil_edit">Esse não é seu nome de usuário nem sua senha. Esse nome apenas ficará visivel para seus contatos do WhatsApp.</string>
+    <string name="Auterar">Alterar nome</string>
+    <string name="nome_do_usu_rio">Nome do usuário</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="nome_do_contato">Nome do Contato</string>
+    <string name="todos">TODO</string>
+    <string name="title_activity_grupo">GrupoActivity</string>
+    <string name="title_activity_cadastro_gp">CadastroGpActivity</string>
+    <string name="defina_o_nome_e_uma_imagem_opcional_ao_grupo">Defina o nome e uma imagem opcional ao grupo.</string>
+</resources>
